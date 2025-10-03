@@ -1,8 +1,8 @@
-<body bgcolor="orange">
+<body>
   <h1>Profile</h1>
   
-  <h2>basic information</h2>
-  <table>
+  <p>basic information</p>
+  <table bgcolor="orange">
     <tr>
       <td>
         <Strong>Affiliation</Strong>
