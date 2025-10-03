@@ -1,6 +1,7 @@
+<body bgcolor="orange">
   <h1>Profile</h1>
   
-  <p>ITカレッジ沖縄</p>
+  <h2>basic information</h2>
   <table>
     <tr>
       <td>
@@ -35,3 +36,4 @@
       </td>
     </tr>
   </table>
+  </body>
