@@ -28,9 +28,10 @@
     </tr>
     <tr>
       <td>
-        <Strong></Strong>
+        <Strong>Residence</Strong>
       </td>
       <td>
+        Okinawa
       </td>
     </tr>
   </table>
