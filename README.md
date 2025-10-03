@@ -4,7 +4,7 @@
   <p>basic information</p>
   <table>
     <tr>
-      <td bgcolor="orange">
+      <td>
         <Strong>Affiliation</Strong>
       </td>
       <td>
