@@ -2,7 +2,7 @@
   <h1>Profile</h1>
   
   <Strong>basic information</Strong>
-  <table style="font-size:40px;">
+  <table>
     <tr>
       <td>
         <Strong>Affiliation</Strong>
@@ -36,4 +36,6 @@
       </td>
     </tr>
   </table>
+
+  <img src="https://www.udemy.com/ja/topic/comptia-it-fundamentals/?srsltid=AfmBOopfrPlOFGP6hYc4mNurXOMnzlDQGp_BLrsnGhaD1Wi8bDVyO4By">
   </body>
