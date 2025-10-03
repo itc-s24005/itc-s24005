@@ -1,7 +1,7 @@
 <body>
   <h1>Profile</h1>
   
-  <p>basic information</p>
+  <Strong>basic information</Strong>
   <table>
     <tr>
       <td>
