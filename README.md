@@ -2,7 +2,7 @@
   <h1>Profile</h1>
   
   <Strong>basic information</Strong>
-  <table>
+  <table　width="200">
     <tr>
       <td>
         <Strong>Affiliation</Strong>
