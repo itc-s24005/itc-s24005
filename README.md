@@ -2,9 +2,9 @@
   <h1>Profile</h1>
   
   <p>basic information</p>
-  <table bgcolor="orange">
+  <table>
     <tr>
-      <td>
+      <td bgcolor="orange">
         <Strong>Affiliation</Strong>
       </td>
       <td>
