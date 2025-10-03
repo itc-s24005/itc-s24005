@@ -4,10 +4,33 @@
   <tbody>
     <tr>
       <td>
-        Affiliation
+        <Strong>Affiliation</Strong>
       </td>
       <td>
         IT-College-Okinawa
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <Strong>Birthplace</Strong>
+      </td>
+      <td>
+        Japan
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <Strong>age</Strong>
+      </td>
+      <td>
+        19
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <Strong></Strong>
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
