@@ -1,7 +1,7 @@
   <h1>Profile</h1>
   
   <p>ITカレッジ沖縄</p>
-  <tbody>
+  <table>
     <tr>
       <th>
         <Strong>Affiliation</Strong>
@@ -33,4 +33,4 @@
       <td>
       </td>
     </tr>
-  </tbody>
+  </table>
