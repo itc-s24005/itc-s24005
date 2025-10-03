@@ -3,12 +3,12 @@
   <p>ITカレッジ沖縄</p>
   <tbody>
     <tr>
-      <td>
+      <th>
         <Strong>Affiliation</Strong>
-      </td>
-      <td>
+      </th>
+      <th>
         IT-College-Okinawa
-      </td>
+      </th>
     </tr>
     <tr>
       <td>
