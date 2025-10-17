@@ -78,5 +78,4 @@
 
 ## The work
 * [**お店のホームページ**](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai)
-* **aa**
-* aa
+* [**天気予報アプリ**](https://github.com/itc-s24005/weather-forecast-project)
