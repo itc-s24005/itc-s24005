@@ -1,26 +1,26 @@
-# Profile
+# プロフィール
 <body>
-  <h2>basic information</h2>
+  <h2>基本情報</h2>
   <table>
     <tr>
       <td>
-        <Strong>Affiliation</Strong>
+        <Strong>所属</Strong>
       </td>
       <td>
-        IT-College-Okinawa
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <Strong>Birthplace</Strong>
-      </td>
-      <td>
-        Japan
+        ITカレッジ沖縄-ITスペシャリスト科
       </td>
     </tr>
     <tr>
       <td>
-        <Strong>age</Strong>
+        <Strong>出身</Strong>
+      </td>
+      <td>
+        日本
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <Strong>年齢</Strong>
       </td>
       <td>
         19
@@ -28,14 +28,14 @@
     </tr>
     <tr>
       <td>
-        <Strong>Residence</Strong>
+        <Strong>住居</Strong>
       </td>
       <td>
-        Okinawa
+        沖縄
       </td>
     </tr>
   </table>
-  <h2>Qualifications and Certifications</h2>
+  <h2>資格・試験</h2>
   <div>
     <div>
       <div>
@@ -76,6 +76,7 @@
   </div>
 </body>
 
-## The work
+## 過去の作品
+※1年生時に制作
 * [**お店のホームページ**](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai)
 * [**天気予報アプリ**](https://github.com/itc-s24005/weather-forecast-project)
