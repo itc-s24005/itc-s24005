@@ -66,4 +66,6 @@
 ## 過去の作品
 ※1年生時に制作
 * [**お店のホームページ**](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai)
+店舗のホームページ風サイトです
 * [**天気予報アプリ**](https://github.com/itc-s24005/weather-forecast-project)
+APIを利用し、天気情報を取得できるサイトです
