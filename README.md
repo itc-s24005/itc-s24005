@@ -64,7 +64,7 @@
 
 
 ## 過去の作品
-※1年生時に制作
+※1年生時に制作（天気予報アプリのみ2年生時に一部修正しました）
 * **お店のホームページ**  
 店舗のホームページ風サイトです（リポジトリは[こちら](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai)）
 * [**天気予報アプリ**](https://weather-forecast-project-delta.vercel.app/)  
