@@ -23,7 +23,7 @@
         <Strong>年齢</Strong>
       </td>
       <td>
-        19
+        20
       </td>
     </tr>
     <tr>
