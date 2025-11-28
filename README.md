@@ -68,3 +68,5 @@
 店舗のホームページ風サイトです（リポジトリは[こちら](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai)）
 * [**天気予報アプリ**](https://weather-forecast-project-delta.vercel.app/)  
 APIを利用し、天気情報を取得できるサイトです（リポジトリは[こちら](https://github.com/itc-s24005/weather-forecast-project)）
+* [**辞書アプリ**](https://it-dict.vercel.app/)
+microCMSで登録した用語を辞書サイトとして検索・表示できるアプリです（リポジトリは[こちら]()）
