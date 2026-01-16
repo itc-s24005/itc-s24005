@@ -67,6 +67,7 @@
 * **お店のホームページ**   
 店舗のホームページ風サイトです  
 HTML(& CSS)を使用して作成しました  
+※諸事情により外部からはサイトを閲覧出来ません  
 (リポジトリは[こちら](https://github.com/itc-s24005/WebEx_kouki/tree/main/kouki_kadai))
 
 * [**天気予報アプリ**](https://weather-forecast-project-delta.vercel.app/)  
