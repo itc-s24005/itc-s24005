@@ -31,7 +31,7 @@
         <Strong>住居</Strong>
       </td>
       <td>
-        沖縄
+        沖縄県　糸満市
       </td>
     </tr>
   </table>
@@ -72,9 +72,11 @@ HTML(& CSS)を使用して作成しました
 * [**天気予報アプリ**](https://weather-forecast-project-delta.vercel.app/)  
 お天気情報を取得できるサイトです  
 気象情報を取得できるAPIを利用しています  
+あまり上手く出来ておらず、簡潔的なものとなっています  
 (リポジトリは[こちら](https://github.com/itc-s24005/weather-forecast-project))
 
 * [**辞書アプリ**](https://it-dict.vercel.app/)  
 用語の意味などを調べることができるIT用語専用の辞書アプリです  
 用語はmicroCMSで管理しています  
+検索機能だけでなく予測変換・自動内部リンク化などの機能も揃っています  
 (リポジトリは[こちら](https://github.com/itc-s24005/IT-DICT))
