@@ -83,5 +83,6 @@ HTML(& CSS)を使用して作成しました
 (リポジトリは[こちら](https://github.com/itc-s24005/IT-DICT))
 
 
-* [**進級制作**](https://github.com/itc-s24005/news)※現在、鋭意製作中  
-メールの通知、カレンダー天気、ニュースなどの生活情報を一括で閲覧できるものです
+* [**生活情報アプリ**](https://living-information.vercel.app/)  
+メールの通知、カレンダー天気、ニュースなどの生活情報を一括で閲覧できるものです  
+(リポジトリは[こちら](https://github.com/itc-s24005/Living-information))
