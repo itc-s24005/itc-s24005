@@ -83,6 +83,6 @@ HTML(& CSS)を使用して作成しました
 (リポジトリは[こちら](https://github.com/itc-s24005/IT-DICT))
 
 
-* [**生活情報アプリ**](https://living-information.vercel.app/)  
+* [**生活情報アプリ**](https://living-information-demo.vercel.app/) ※リンクはデモ用のページです(詳細はリポジトリから)  
 メールの通知、カレンダー天気、ニュースなどの生活情報を一括で閲覧できるものです  
 (リポジトリは[こちら](https://github.com/itc-s24005/Living-information))
